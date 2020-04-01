@@ -1,6 +1,6 @@
-drop database bugsDb;
-create DATABASE IF NOT EXISTS bugsDb;
-USE bugsDb;
+drop database bugsdb;
+create DATABASE IF NOT EXISTS bugsdb;
+USE bugsdb;
 
 
 create table if not exists employee
