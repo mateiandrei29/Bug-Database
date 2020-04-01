@@ -64,7 +64,7 @@ INSERT INTO `bug` (`idBug`, `description`, `screenshot`, `tag`, `statusBug`, `pr
 
 INSERT INTO `comment_thread` (`idComm`, `message`, `idEmployee`, `idBug`) VALUES
 (1, 'How did this happen?', 2, 2),
-(2, 'Beats me.', 1, 2);
+(2, 'Beats me.', 1, 2); 
 
 
 
