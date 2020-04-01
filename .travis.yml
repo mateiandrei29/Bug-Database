@@ -1,5 +1,12 @@
 language: java
 jdk:
 - oraclejdk13
-sudo: false
+sudo: disabled
+services:
+  - mysql
+before_script:
+   - mysql -u root -e ‘DROP DATABASE IF EXISTS bugsdb;’
+   - mysql -u root -e ‘CREATE DATABASE bugdb;’
+   - mysql -u root -e < "db2.0.sql"
+  
 script: mvn clean verify
