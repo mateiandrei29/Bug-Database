@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="Java EE 6-Java EE 6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/javax.annotation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.persistence.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.jms.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.ejb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.transaction.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.resource.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.servlet.jsp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.servlet.jsp.jstl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/Faculta/mysql-connector-java-8.0.18.zip!/mysql-connector-java-8.0.18/src/build/java" />
+      <root url="jar://D:/Faculta/mysql-connector-java-8.0.18.zip!/mysql-connector-java-8.0.18/src/demo/java" />
+      <root url="jar://D:/Faculta/mysql-connector-java-8.0.18.zip!/mysql-connector-java-8.0.18/src/generated/java" />
+      <root url="jar://D:/Faculta/mysql-connector-java-8.0.18.zip!/mysql-connector-java-8.0.18/src/legacy/java" />
+      <root url="jar://D:/Faculta/mysql-connector-java-8.0.18.zip!/mysql-connector-java-8.0.18/src/main/core-api/java" />
+      <root url="jar://D:/Faculta/mysql-connector-java-8.0.18.zip!/mysql-connector-java-8.0.18/src/main/core-impl/java" />
+      <root url="jar://D:/Faculta/mysql-connector-java-8.0.18.zip!/mysql-connector-java-8.0.18/src/main/protocol-impl/java" />
+      <root url="jar://D:/Faculta/mysql-connector-java-8.0.18.zip!/mysql-connector-java-8.0.18/src/main/user-api/java" />
+      <root url="jar://D:/Faculta/mysql-connector-java-8.0.18.zip!/mysql-connector-java-8.0.18/src/main/user-impl/java" />
+      <root url="jar://D:/Faculta/mysql-connector-java-8.0.18.zip!/mysql-connector-java-8.0.18/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
